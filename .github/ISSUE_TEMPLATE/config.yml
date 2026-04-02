@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and usage help
+    url: https://github.com/Selflify/Selflify/discussions
+    about: Use Discussions for setup questions, integration help, and general support.
+  - name: Security policy
+    url: https://github.com/Selflify/Selflify/blob/stable/SECURITY.md
+    about: Do not open public issues for vulnerabilities.
